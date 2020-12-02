@@ -9,7 +9,7 @@ eggs/
 .eggs/
 lib/
 lib64/
-node_modules/
+**/node_modules
 parts/
 sdist/
 var/
@@ -17,5 +17,5 @@ var/
 .installed.cfg
 *.egg
 package-lock.json
-# Serverless directories
+# Serverless directories 
 .serverless
